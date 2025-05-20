@@ -32,8 +32,7 @@ The application follows the MVC (Model-View-Controller) architecture pattern:
 ### Prerequisites
 
 - Java Development Kit (JDK) 17 or higher
-- Maven 3.6 or higher
-- Git
+- JavaFX SDK 23 or higher
 
 ### Steps
 
