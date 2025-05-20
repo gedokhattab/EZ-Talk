@@ -12,6 +12,10 @@ EZ-Talk is a modern, Java-based chat application that brings together real-time 
 - **Search Functionality**: Easily find messages and contacts with a powerful search feature.
 - **Security**: Secure authentication and user management to protect your data.
 
+![image](https://github.com/user-attachments/assets/c1138d86-3c6a-4a98-984a-dc4024dfb2f9)
+![image](https://github.com/user-attachments/assets/6c01e12d-4027-4264-a420-ef8403687d42)
+![image](https://github.com/user-attachments/assets/6a441b95-e6ae-4004-b253-5d902e13476b)
+
 ## 🧱 Project Structure
 
 The application follows the MVC (Model-View-Controller) architecture pattern:
@@ -41,3 +45,11 @@ The application follows the MVC (Model-View-Controller) architecture pattern:
    ```bash
    git clone https://github.com/gedokhattab/EZ-Talk.git
    cd EZ-Talk
+
+2. **Build the Project**
+
+   mvn clean install
+   
+3. **Run the Application**
+
+    mvn javafx:run
