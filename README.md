@@ -50,8 +50,10 @@ The application follows the MVC (Model-View-Controller) architecture pattern:
 
 2. **Build the Project**
 
+    ```bash
    mvn clean install
    
 3. **Run the Application**
 
+     ```bash
     mvn javafx:run
