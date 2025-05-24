@@ -54,11 +54,15 @@ The application follows the MVC (Model-View-Controller) architecture pattern:
    mvn clean install
 
 3. **Set the Project Structure**
-
-     Add  --module-path **YOUR PATH(JavaFX lib Path)** --add-modules javafx.controls,javafx.fxml  to the VM Options in Run Configurations
-     Include JavaFX in the Project Structure Modules and Libraries
+   Add
+   ```bash
+     --module-path YOUR PATH(JavaFX lib Path) --add-modules javafx.controls,javafx.fxml
+   ```
+   to the VM Options in Run Configurations
+   
+   Include JavaFX in the Project Structure Modules and Libraries
   
-4. **Run the Application**
+5. **Run the Application**
 
      ```bash
     mvn javafx:run
