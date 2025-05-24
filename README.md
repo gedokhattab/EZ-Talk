@@ -55,7 +55,7 @@ The application follows the MVC (Model-View-Controller) architecture pattern:
 
 3. **Set the Project Structure**
 
-     Add  --module-path JavaFX/lib Path --add-modules javafx.controls,javafx.fxml  to the VM Options in Run Configurations
+     Add  --module-path **YOUR PATH(JavaFX lib Path)** --add-modules javafx.controls,javafx.fxml  to the VM Options in Run Configurations
      Include JavaFX in the Project Structure Modules and Libraries
   
 4. **Run the Application**
